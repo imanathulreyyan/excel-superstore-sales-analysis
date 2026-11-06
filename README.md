@@ -4,7 +4,7 @@
 
 An end-to-end Excel analysis of 51,290 order lines from a global retailer: data cleaning, pivot tables, formulas and an interactive dashboard, with clear business recommendations.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
